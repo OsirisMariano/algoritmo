@@ -1,7 +1,7 @@
 ## DesenvolvendoME Algoritmo
 
 * [x] [binary_search](https://github.com/OsirisMariano/algoritmo/blob/main/binary_search.rb)
-* [] [bubble_sort](https://github.com/OsirisMariano/algoritmo/blob/main/bubble_sort.rb)
+* [x] [bubble_sort](https://github.com/OsirisMariano/algoritmo/blob/main/bubble_sort.rb)
 * [] [count](https://github.com/OsirisMariano/algoritmo/blob/main/count.rb)
 * [] [counting_sort](https://github.com/OsirisMariano/algoritmo/blob/main/counting_sort.rb)
 * [] [find_three](https://github.com/OsirisMariano/algoritmo/blob/main/find_three.rb)
