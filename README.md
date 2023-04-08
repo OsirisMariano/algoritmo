@@ -4,3 +4,6 @@
 * [x] [bubble_sort](https://github.com/OsirisMariano/algoritmo/blob/main/bubble_sort.rb)
 * [x] [find_three](https://github.com/OsirisMariano/algoritmo/blob/main/find_three.rb)
 * [x] [maximize_array](https://github.com/OsirisMariano/algoritmo/blob/main/maximize_array.rb)
+* [x] [soma](https://github.com/OsirisMariano/algoritmo/blob/main/soma.rb)
+* [x] [desafio](https://github.com/OsirisMariano/algoritmo/blob/main/desafio.rb)
+* [x] [entrada_e_saida](https://github.com/OsirisMariano/algoritmo/blob/main/entrada_e_saida.rb)
