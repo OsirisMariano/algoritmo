@@ -12,3 +12,7 @@
 * [x] [elsif](https://github.com/OsirisMariano/algoritmo/blob/main/elsif.rb)
 * [x] [unless](https://github.com/OsirisMariano/algoritmo/blob/main/unless.rb)
 * [x] [case](https://github.com/OsirisMariano/algoritmo/blob/main/case.rb)
+* [x] [while](https://github.com/OsirisMariano/algoritmo/blob/main/while.rb)
+* [x] [time](https://github.com/OsirisMariano/algoritmo/blob/main/time.rb)
+* [x] [loop](https://github.com/OsirisMariano/algoritmo/blob/main/loop.rb)
+* [x] [for](https://github.com/OsirisMariano/algoritmo/blob/main/for.rb)
