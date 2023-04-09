@@ -10,3 +10,4 @@
 * [x] [if](https://github.com/OsirisMariano/algoritmo/blob/main/if.rb)
 * [x] [else](https://github.com/OsirisMariano/algoritmo/blob/main/else.rb)
 * [x] [elsif](https://github.com/OsirisMariano/algoritmo/blob/main/elsif.rb)
+* [x] [unless](https://github.com/OsirisMariano/algoritmo/blob/main/unless.rb)
