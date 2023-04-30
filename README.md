@@ -16,3 +16,8 @@
 * [x] [time](https://github.com/OsirisMariano/algoritmo/blob/main/time.rb)
 * [x] [loop](https://github.com/OsirisMariano/algoritmo/blob/main/loop.rb)
 * [x] [for](https://github.com/OsirisMariano/algoritmo/blob/main/for.rb)
+* [x] [entrada e saida](https://github.com/OsirisMariano/algoritmo/blob/main/entrada_e_saida.rb)
+* [x] [exercicio](https://github.com/OsirisMariano/algoritmo/blob/main/exercicio.rb)
+* [x] [principal](https://github.com/OsirisMariano/algoritmo/blob/main/principal.rb)
+* [x] [principal1](https://github.com/OsirisMariano/algoritmo/blob/main/principal1.rb)
+* [x] [time](https://github.com/OsirisMariano/algoritmo/blob/main/time.rb)
